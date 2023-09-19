@@ -40,6 +40,8 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
+require github.com/intel/qatgo v1.0.1
+
 require (
 	cloud.google.com/go v0.110.7 // indirect
 	cloud.google.com/go/compute v1.23.0 // indirect
@@ -48,6 +50,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.3.1 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.3.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.0 // indirect
+	github.com/DataDog/zstd v1.5.5 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/aws/aws-sdk-go v1.45.4 // indirect

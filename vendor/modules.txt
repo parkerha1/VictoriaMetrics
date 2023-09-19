@@ -88,6 +88,9 @@ github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/options
 github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/shared
 github.com/AzureAD/microsoft-authentication-library-for-go/apps/internal/version
 github.com/AzureAD/microsoft-authentication-library-for-go/apps/public
+# github.com/DataDog/zstd v1.5.5
+## explicit; go 1.14
+github.com/DataDog/zstd
 # github.com/VictoriaMetrics/fastcache v1.12.1
 ## explicit; go 1.13
 github.com/VictoriaMetrics/fastcache
@@ -394,6 +397,9 @@ github.com/grafana/regexp/syntax
 github.com/influxdata/influxdb/client/v2
 github.com/influxdata/influxdb/models
 github.com/influxdata/influxdb/pkg/escape
+# github.com/intel/qatgo v1.0.1
+## explicit; go 1.18
+github.com/intel/qatgo/qatzip
 # github.com/jmespath/go-jmespath v0.4.0
 ## explicit; go 1.14
 github.com/jmespath/go-jmespath
